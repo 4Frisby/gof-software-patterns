@@ -1,0 +1,2 @@
+The Proxy preserves the interface of the Service(common interface), 
+but changes it behavior.

@@ -1,0 +1,1 @@
+The Adapter changes the interface of the Service, but preserves it behavior.
